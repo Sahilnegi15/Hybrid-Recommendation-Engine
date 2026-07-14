@@ -1,0 +1,17 @@
+__pycache__/
+
+*.pyc
+
+.env
+
+saved_models/
+
+mlruns/
+
+*.db
+
+.idea/
+
+.vscode/
+
+.DS_Store
